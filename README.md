@@ -1,2 +1,5 @@
-# blank_parking_slot
-AI project to detect blank parking slots
+# Blank parking slot
+
+## Introduction
+
+![](https://i.imgur.com/ExPcVeQ.png)
